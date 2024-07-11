@@ -1,7 +1,10 @@
 <h1 align="center"> Git and Github  </h1>
+
 ![Alt text](source/B1.avif)
 
 ***
+
+
 
 <h2 align="center"> A Repository to show my learning of Git and Github  </h2>
 
@@ -11,6 +14,7 @@
 
 ***
 <h3 align="center"> Google Coursera Certificate  </h3>
+
 ![Alt text](source/Certificate.png)
 
 <h3 align="center">💣 Support this repository 💣</h3>
@@ -29,5 +33,25 @@
 
 
 ***
-### 🖊 the writer : Muhammad Bilal Ashiq - [Comapny Website](https://www.entracloud.net/our-team) - [linkedin](https://www.linkedin.com/in/bilal-ashiq/)- [GitHub](https://github.com/thecallmeBilalAshiq) 
+### Writer : Muhammad Bilal Ashiq 
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/thecallmeBilalAshiq">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilal-ashiq/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="bashiq031@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+    <a href="https://www.instagram.com/theycallme_bilal_ashiq/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+      
+  </a>
+  
+</p>
+
 
