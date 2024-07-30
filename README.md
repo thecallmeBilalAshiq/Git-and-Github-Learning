@@ -1,6 +1,6 @@
 <h1 align="center"> Git and Github  </h1>
 
-![Alt text](source/B1.avif)
+![Alt text](source/Github.png)
 
 ***
 
