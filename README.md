@@ -4,7 +4,6 @@
 
 ***
 
-
 <h2 align="center"> A Repository to show my learning of Git and Github  </h2>
 
 #### 🔷 What exactly is going on here?
