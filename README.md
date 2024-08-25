@@ -6,6 +6,7 @@
 
 <h2 align="center"> A Repository to show my learning of Git and Github  </h2>
 
+
 #### 🔷 What exactly is going on here?
 >Git is a distributed version control system designed for tracking changes in source code during software development. It allows multiple developers to collaborate on projects, managing versions and facilitating branching for parallel development.
 >GitHub is a web-based platform built around Git, providing hosting for Git repositories. It enhances collaboration by offering features like issue tracking, pull requests for code review, and project management tools. GitHub is widely used for open-source projects and by teams to streamline development workflows and ensure code quality through collaboration and version control.
